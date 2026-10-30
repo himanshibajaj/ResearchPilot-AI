@@ -1,0 +1,7 @@
+google-genai
+ddgs
+httpx
+trafilatura
+pydantic
+python-dotenv
+pytest
